@@ -55,6 +55,13 @@ The table below reports a Transformer model identical to the "base model" in [Va
   howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}},
   commit = {602a630730ce8b61ea8882251e5516ad1930fa43}
 }
+@inproceedings{tang2021基于字词粒度噪声数据增强的中文语法纠错,
+  title={基于字词粒度噪声数据增强的中文语法纠错 (Chinese Grammatical Error Correction enhanced by Data Augmentation from Word and Character Levels)},
+  author={Tang, Zecheng and Ji, Yixin and Zhao, Yibo and Li, Junhui},
+  booktitle={Proceedings of the 20th Chinese National Conference on Computational Linguistics},
+  pages={813--824},
+  year={2021}
+}
 ```
 
 ## Notes
