@@ -25,6 +25,8 @@ Example of complete usage
 `python add_noise/add_noise.py --input input_file_path --redundant_probability 0.2  --selection_probability 0.2 --missing_probability 0.2  --ordering_probability 0.2 --comprehensive_error_probability 0.2`
 
 ## Results
+![image](https://user-images.githubusercontent.com/68063744/175760956-5045590b-daa8-44c2-8073-7f2efba98ab0.png)
+*Examples of noisy texts*
 
 I've run Chinese grammatical error correction experiments on Chinese Wikipedia corpus, using all available parallel data.
 
