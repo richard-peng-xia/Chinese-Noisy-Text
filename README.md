@@ -16,6 +16,8 @@ I've implemented the 5 noise functions described in the paper:
 4. Repeat words with given probability (default is 0.163)
 5. Select any of the above noise functions at random
 
+I set the error rate of each time as 16.3%, which can maintain the error rate of the corpus after double noise at 30% (calculated according to mathematical expectation).
+
 Example of simple usage
 
 `bash noise.sh`
