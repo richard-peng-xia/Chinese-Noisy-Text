@@ -1,0 +1,5 @@
+argparse
+tqdm
+jieba
+random
+pypinyi
