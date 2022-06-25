@@ -43,6 +43,20 @@ The table below reports a Transformer model identical to the "base model" in [Va
 
 *Transformer base model*
 
+## Reference
+
+```
+@misc{Xia2022,
+  author = {Peng Xia},
+  title = {Chinese-Noisy-Text},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}},
+  commit = {602a630730ce8b61ea8882251e5516ad1930fa43}
+}
+```
+
 ## Notes
 
 Do not hesitate to contact me if you need some help, need a feature or see some bug
