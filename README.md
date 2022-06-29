@@ -6,6 +6,10 @@ This repository stores the code of the data augmentation method from Chinese wor
 
 `pip install -r requirements.txt`
 
+Due to copyright restrictions, the two folders have not been uploaded. You can download them from these two links below if you need them. 
+
+[ChineseHomophones](https://github.com/LiangsLi/ChineseHomophones) | [SimilarCharacter](https://github.com/contr4l/SimilarCharacter)
+
 ## Usage
 
 I've implemented the 5 noise functions described in the paper:
@@ -46,7 +50,7 @@ The table below reports a Transformer model identical to the "base model" in [Va
 ## Reference
 
 ```
-@misc{Xia2022,
+@misc{Xia2022ChineseNoisyText,
   author = {Peng Xia},
   title = {Chinese-Noisy-Text},
   year = {2022},
