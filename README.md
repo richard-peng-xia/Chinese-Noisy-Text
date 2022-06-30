@@ -2,7 +2,7 @@
 
 This repository stores the code of the data augmentation method from Chinese word and character levels, which adds noise to words and characters in redundant, missing, selection and ordering respectively.
 
-## Requirements
+## Requirements & Datasets
 
 `pip install -r requirements.txt`
 
