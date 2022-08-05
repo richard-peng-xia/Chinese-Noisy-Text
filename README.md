@@ -56,8 +56,16 @@ The table below reports a Transformer model identical to the "base model" in [Va
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}},
-  commit = {602a630730ce8b61ea8882251e5516ad1930fa43}
+  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
+}
+@misc{https://doi.org/10.48550/arxiv.2208.00351,
+  doi = {10.48550/ARXIV.2208.00351}, 
+  url = {https://arxiv.org/abs/2208.00351},
+  author = {Xia, Peng and Zhou, Yuechi and Zhang, Ziyan and Tang, Zecheng and Li, Juntao},
+  title = {Chinese grammatical error correction based on knowledge distillation},
+  publisher = {arXiv},
+  year = {2022}, 
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 @inproceedings{tang2021基于字词粒度噪声数据增强的中文语法纠错,
   title={基于字词粒度噪声数据增强的中文语法纠错 (Chinese Grammatical Error Correction enhanced by Data Augmentation from Word and Character Levels)},
