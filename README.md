@@ -1,4 +1,6 @@
 # Chinese-Noisy-Text
+[![OSCS Status](https://www.oscs1024.com/platform/badge/Richard88888/Chinese-Noisy-Text.svg?size=small)](https://www.oscs1024.com/project/Richard88888/Chinese-Noisy-Text?ref=badge_small) ![Github stars](https://img.shields.io/github/stars/Richard88888/Chinese-Noisy-Text.svg)
+
 
 This repository stores the code of the data augmentation method from Chinese word and character levels, which adds noise to words and characters in redundant, missing, selection and ordering respectively.
 
