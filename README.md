@@ -52,14 +52,6 @@ The table below reports a Transformer model identical to the "base model" in [Va
 ## Reference
 
 ```
-@misc{Xia2022ChineseNoisyText,
-  author = {Peng Xia},
-  title = {Chinese-Noisy-Text},
-  year = {2022},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
-}
 @article{xia2022chinese,
   title={Chinese grammatical error correction based on knowledge distillation},
   author={Xia, Peng and Zhou, Yuechi and Zhang, Ziyan and Tang, Zecheng and Li, Juntao},
@@ -74,7 +66,14 @@ The table below reports a Transformer model identical to the "base model" in [Va
   year={2021}
 }
 ```
-
+<!-- @misc{Xia2022ChineseNoisyText,
+  author = {Peng Xia},
+  title = {Chinese-Noisy-Text},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
+} -->
 ## Notes
 
 Do not hesitate to contact me if you need some help, need a feature or see some bug
