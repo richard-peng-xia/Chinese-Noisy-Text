@@ -2,6 +2,7 @@
 [![OSCS Status](https://www.oscs1024.com/platform/badge/Richard88888/Chinese-Noisy-Text.svg?size=small)](https://www.oscs1024.com/project/Richard88888/Chinese-Noisy-Text?ref=badge_small) ![Github stars](https://img.shields.io/github/stars/Richard88888/Chinese-Noisy-Text.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7025129.svg)](https://doi.org/10.5281/zenodo.7025129)
 
 This repository stores the code of the data augmentation method from Chinese word and character levels, which adds noise to words and characters in redundant, missing, selection and ordering respectively.
 
