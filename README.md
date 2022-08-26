@@ -80,6 +80,7 @@ The table below reports a Transformer model identical to the "base model" in [Va
   pages={813--824},
   year={2021}
 }
+```
 
 ## Notes
 Do not hesitate to contact me if you need some help, need a feature or see some bug
@@ -88,7 +89,7 @@ Feel free and welcome to contribute
 
 
 
-```
+
 <!-- @misc{Xia2022ChineseNoisyText,
   author = {Peng Xia},
   title = {Chinese-Noisy-Text},
