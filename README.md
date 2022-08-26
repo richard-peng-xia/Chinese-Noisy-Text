@@ -64,13 +64,12 @@ The table below reports a Transformer model identical to the "base model" in [Va
 @misc{Xia2022ChineseNoisyText,
   author = {Peng Xia},
   title = {Chinese-Noisy-Text},
-  month = {aug},
   year = {2022},
   version = {doi},
   doi = {10.5281/zenodo.7025129},
   publisher = {GitHub},
   journal = {GitHub repository},
-  url = {https://github.com/Richard88888/Chinese-Noisy-Text}
+  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
 }
 
 @inproceedings{tang2021基于字词粒度噪声数据增强的中文语法纠错,
