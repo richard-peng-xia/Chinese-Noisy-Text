@@ -81,6 +81,13 @@ The table below reports a Transformer model identical to the "base model" in [Va
   year={2021}
 }
 
+## Notes
+Do not hesitate to contact me if you need some help, need a feature or see some bug
+
+Feel free and welcome to contribute
+
+
+
 ```
 <!-- @misc{Xia2022ChineseNoisyText,
   author = {Peng Xia},
@@ -99,11 +106,6 @@ The table below reports a Transformer model identical to the "base model" in [Va
   version      = {doi},
   doi          = {10.5281/zenodo.7025129},
   url          = {https://doi.org/10.5281/zenodo.7025129}
-}
---!>
+} --!>
 
-## Notes
 
-Do not hesitate to contact me if you need some help, need a feature or see some bug
-
-Feel free and welcome to contribute
