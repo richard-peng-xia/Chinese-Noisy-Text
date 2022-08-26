@@ -70,6 +70,14 @@ The table below reports a Transformer model identical to the "base model" in [Va
   doi          = {10.5281/zenodo.7025129},
   url          = {https://doi.org/10.5281/zenodo.7025129}
 }
+@misc{Xia2022ChineseNoisyText,
+  author = {Peng Xia},
+  title = {Chinese-Noisy-Text},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
+} 
 @inproceedings{tang2021基于字词粒度噪声数据增强的中文语法纠错,
   title={基于字词粒度噪声数据增强的中文语法纠错 (Chinese Grammatical Error Correction enhanced by Data Augmentation from Word and Character Levels)},
   author={Tang, Zecheng and Ji, Yixin and Zhao, Yibo and Li, Junhui},
