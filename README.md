@@ -60,24 +60,19 @@ The table below reports a Transformer model identical to the "base model" in [Va
   journal={arXiv preprint arXiv:2208.00351},
   year={2022}
 }
-@software{peng_richard_xia_2022_7025129,
-  author       = {Peng(Richard) Xia},
-  title        = {Richard88888/Chinese-Noisy-Text: v1.0},
-  month        = aug,
-  year         = 2022,
-  publisher    = {Zenodo},
-  version      = {doi},
-  doi          = {10.5281/zenodo.7025129},
-  url          = {https://doi.org/10.5281/zenodo.7025129}
-}
+
 @misc{Xia2022ChineseNoisyText,
   author = {Peng Xia},
   title = {Chinese-Noisy-Text},
+  month = {aug},
   year = {2022},
+  version = {doi},
+  doi = {10.5281/zenodo.7025129},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
-} 
+  url = {https://github.com/Richard88888/Chinese-Noisy-Text}
+}
+
 @inproceedings{tang2021基于字词粒度噪声数据增强的中文语法纠错,
   title={基于字词粒度噪声数据增强的中文语法纠错 (Chinese Grammatical Error Correction enhanced by Data Augmentation from Word and Character Levels)},
   author={Tang, Zecheng and Ji, Yixin and Zhao, Yibo and Li, Junhui},
@@ -95,6 +90,16 @@ The table below reports a Transformer model identical to the "base model" in [Va
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
 } 
+@software{peng_richard_xia_2022_7025129,
+  author       = {Peng(Richard) Xia},
+  title        = {Richard88888/Chinese-Noisy-Text: v1.0},
+  month        = aug,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {doi},
+  doi          = {10.5281/zenodo.7025129},
+  url          = {https://doi.org/10.5281/zenodo.7025129}
+}
 --!>
 
 ## Notes
