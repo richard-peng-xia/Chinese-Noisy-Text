@@ -85,8 +85,8 @@ The table below reports a Transformer model identical to the "base model" in [Va
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Richard88888/Chinese-Noisy-Text}}
-} --!>
-
+} 
+--!>
 
 ## Notes
 
